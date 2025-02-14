@@ -22,4 +22,4 @@ Além de backend, também tenho conhecimento em **Angular e React**, o que me pe
 ## 📩 **Contato: 81 99830-7047**  
 
 📧 **E-mail:** luanmvcosta@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/luan-costa-877010235/)  
+💼 **LinkedIn:** [linkedin.com/in/Luan Costa](https://www.linkedin.com/in/luan-costa-877010235/)  
