@@ -6,9 +6,9 @@
 
 ### Minhas Estatísticas no GitHub  
 
-![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanmvcosta0&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmvcosta0&layout=compact&theme=dracula)
 
 ---
 
