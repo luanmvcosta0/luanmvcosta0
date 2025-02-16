@@ -1,6 +1,15 @@
-## Olá! Eu sou Luan Costa. Desenvolvedor Backend 
+# 👋 Olá, eu sou o Luan Costa!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-perfil)
+🎯 **Desenvolvedor Backend | Java & Spring Boot**  
+🚀 Apaixonado por tecnologia e desenvolvimento de software
+
+## 🔥 **Sobre Mim**  
+
+Sou um desenvolvedor backend especializado em **Java e Spring Boot**, focado na criação de aplicações inovadoras e eficientes. Tenho experiência em **APIs REST, bancos de dados MySQL e H2, JPA/Hibernate e boas práticas de código**. Atualmente, estou me aprofundando em **Clean Code e arquitetura de software** para entregar soluções cada vez mais robustas e escaláveis.  
+
+Além de backend, também tenho conhecimento em **Angular e React**, o que me permite atuar como fullstack quando necessário. 
+
+
 
 ---
 
@@ -29,28 +38,10 @@
 - 📚 Atualmente estudando **Spring Security e Microsserviços**;
 - 🔍 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 
----
-
-_Feel free to connect with me!_ 🚀
-
-
 
 
 ------------------------------------------------
-
-
-
-
-# 👋 Olá, eu sou o Luan Costa!  
-
-🎯 **Desenvolvedor Backend | Java & Spring Boot**  
-🚀 Apaixonado por tecnologia e desenvolvimento de software
-
-## 🔥 **Sobre Mim**  
-
-Sou um desenvolvedor backend especializado em **Java e Spring Boot**, focado na criação de aplicações inovadoras e eficientes. Tenho experiência em **APIs REST, bancos de dados MySQL e H2, JPA/Hibernate e boas práticas de código**. Atualmente, estou me aprofundando em **Clean Code e arquitetura de software** para entregar soluções cada vez mais robustas e escaláveis.  
-
-Além de backend, também tenho conhecimento em **Angular e React**, o que me permite atuar como fullstack quando necessário.  
+ 
 
 ## 🛠 **Tecnologias & Ferramentas**  
 
