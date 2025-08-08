@@ -1,15 +1,11 @@
 # 👋 Olá, eu sou o Luan Costa!  
 
-🎯 **Desenvolvedor Backend | Java & Spring Boot**  
+🎯 **Desenvolvedor Fullstack | TypeScript | NodeJS | NestJS | ReactJS | Java | Spring Boot**  
 🚀 Apaixonado por tecnologia e desenvolvimento de software
 
 ## 🔥 **Sobre Mim**  
 
-Sou um desenvolvedor backend especializado em **Java e Spring Boot**, focado na criação de aplicações inovadoras e eficientes. Tenho experiência em **APIs REST, bancos de dados MySQL e H2, JPA/Hibernate e boas práticas de código**. Atualmente, estou me aprofundando em **Clean Code e arquitetura de software** para entregar soluções cada vez mais robustas e escaláveis.  
-
-Além de backend, também tenho conhecimento em **Angular e React**, o que me permite atuar como fullstack quando necessário. 
-
-
+Sou um desenvolvedor backend especializado em **TypeScript | NodeJS | NestJS | ReactJS**, focado na criação de aplicações inovadoras e eficientes. Tenho experiência em **APIs REST, bancos de dados Postgres e H2, JPA/Hibernate e boas práticas de código**. Atualmente, estou me aprofundando em **Clean Code e arquitetura de software** para entregar soluções cada vez mais robustas e escaláveis.  
 
 ---
 
