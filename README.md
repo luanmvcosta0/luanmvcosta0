@@ -37,4 +37,5 @@ Sou um desenvolvedor backend especializado em **TypeScript | NodeJS | NestJS | R
 
 📧 **E-mail:** luanmvcosta@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/Luan Costa](https://www.linkedin.com/in/luan-costa-877010235/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/dev_luan_/)
+
+[![Instagram](https://www.instagram.com/dev_luan_/)
