@@ -1,11 +1,13 @@
-# 👋 Olá, eu sou o Luan Costa!  
+# 👋 Olá, me chamo Luan Costa!  
 
 🎯 **Desenvolvedor Fullstack | TypeScript | NodeJS | NestJS | ReactJS | Java | Spring Boot**  
-🚀 Apaixonado por tecnologia e desenvolvimento de software
+🚀 Apaixonado por tecnologia e inovação!
 
 ## 🔥 **Sobre Mim**  
 
-Sou um desenvolvedor backend especializado em **TypeScript | NodeJS | NestJS | ReactJS**, focado na criação de aplicações inovadoras e eficientes. Tenho experiência em **APIs REST, bancos de dados Postgres e H2, JPA/Hibernate e boas práticas de código**. Atualmente, estou me aprofundando em **Clean Code e arquitetura de software** para entregar soluções cada vez mais robustas e escaláveis.  
+Sou um desenvolvedor **fullstack** com experiência em **TypeScript, NodeJS, NestJS, ReactJS, Java/SpringBoot**, atuando tanto no **frontend** quanto no **backend** para criar aplicações modernas, escaláveis e de alta performance.  
+Tenho vivência no desenvolvimento de **APIs REST**, integração com **bancos de dados** como **PostgreSQL, MySQL e H2**, além de trabalhar com **JPA/Hibernate** e práticas de versionamento com **Git** e **Docker**.  
+Atualmente, estou me aprofundando em **Clean Code** e **arquitetura de software**, buscando sempre entregar soluções eficientes, seguras e de fácil manutenção.  
 
 ---
 
@@ -24,10 +26,9 @@ Sou um desenvolvedor backend especializado em **TypeScript | NodeJS | NestJS | R
 ![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
