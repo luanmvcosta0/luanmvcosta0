@@ -1,18 +1,19 @@
 # 👋 Olá, me chamo Luan Costa!  
 
-🚀 Apaixonado por tecnologia e inovação!
-
-### Minhas Estatísticas no GitHub  
-
-![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanmvcosta0&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmvcosta0&layout=compact&theme=dracula)
+🚀 Apaixonado por tecnologia, desenvolvimento Fullstack e inovação.
 
 ---
 
-## 💻 Technologies
+### 📊 Minhas Estatísticas no GitHub  
 
-**Languages & Frameworks**  
+![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanmvcosta0&show_icons=true&theme=dracula)  
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmvcosta0&layout=compact&theme=dracula)
+
+---
+
+## 💻 Tecnologias
+
+**Linguagens & Frameworks**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
@@ -29,10 +30,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/> 
 
 ---
- 
-## 📩 **Contato: 81 99830-7047**  
 
+## 📫 Contato
+
+📱 **WhatsApp:** 81 99830-7047  
 📧 **E-mail:** luanmvcosta@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/Luan Costa](https://www.linkedin.com/in/luan-costa-877010235/)
-
-📷 **Instagram:** [instagram.com/Luan Costa](https://www.instagram.com/dev_luan_/)
+💼 **LinkedIn:** [linkedin.com/in/Luan Costa](https://www.linkedin.com/in/luan-costa-877010235/)  
+📷 **Instagram:** [instagram.com/dev_luan_](https://www.instagram.com/dev_luan_/)
