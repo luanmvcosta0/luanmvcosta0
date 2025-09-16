@@ -57,4 +57,4 @@
 📱 **WhatsApp:** 81 99830-7047  
 📧 **E-mail:** luanmvcosta@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/Luan Costa](https://www.linkedin.com/in/luan-costa-877010235/)  
-📷 **Instagram:** [instagram.com/dev_luan_](https://www.instagram.com/dev_luan_/)
+📷 **Instagram:** [instagram.com/dev_luan_](https://www.instagram.com/costa.dev_/)
