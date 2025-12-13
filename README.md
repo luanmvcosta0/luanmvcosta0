@@ -17,6 +17,7 @@
 
 ### Database
 ![](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
 
 ### Tooling & Misc
 ![](https://skillicons.dev/icons?i=git,github,docker,selenium,jest,postman,figma,linux&theme=dark)
