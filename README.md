@@ -7,22 +7,22 @@
 ## ✨ Technologies
 
 ### Languages
-![](https://skillicons.dev/icons?i=java,js,ts&theme=dark)
+![](https://skillicons.dev/icons?i=java,js,ts&theme=light)
 
 ### Front-end
-![](https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,styledcomponents,bun&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,styledcomponents,bun&theme=light)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
 
 ### Back-end & Infrastructure
-![](https://skillicons.dev/icons?i=spring,nodejs,nestjs,express,npm,prisma,redis,aws&theme=dark)
+![](https://skillicons.dev/icons?i=spring,nodejs,nestjs,express,npm,prisma,redis,aws&theme=light)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
 
 ### Database
-![](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+![](https://skillicons.dev/icons?i=postgres,mysql&theme=light)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
 
 ### Tooling & Misc
-![](https://skillicons.dev/icons?i=git,github,docker,selenium,jest,postman,figma,linux&theme=dark)
+![](https://skillicons.dev/icons?i=git,github,docker,selenium,jest,postman,figma,linux&theme=light)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" style="vertical-align:middle;" /> &nbsp;&nbsp;&nbsp;
