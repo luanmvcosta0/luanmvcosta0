@@ -7,14 +7,14 @@
 ## ✨ Technologies
 
 ### Languages
-![](https://skillicons.dev/icons?i=java,js,ts&theme=dark)
+![](https://skillicons.dev/icons?i=java,js,ts,py&theme=dark)
 
 ### Front-end
 ![](https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,styledcomponents,bun&theme=dark)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
 
 ### Back-end & Infrastructure
-![](https://skillicons.dev/icons?i=spring,nodejs,nestjs,express,npm,prisma,redis,aws&theme=dark)
+![](https://skillicons.dev/icons?i=spring,nodejs,nestjs,express,npm,prisma,redis,aws,flask&theme=dark)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
 
 ### Database
