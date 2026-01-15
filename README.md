@@ -41,7 +41,6 @@ Olá, me chamo Luan!
 
 <div align="center">
 
-![snake svg](https://raw.githubusercontent.com/luanmvcosta0/luanmvcosta0/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -53,6 +52,8 @@ Olá, me chamo Luan!
     <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=luanmvcosta0&layout=compact&theme=cobalt&cache_seconds=1800"/>
   </a>
 </div>
+
+![snake svg](https://raw.githubusercontent.com/luanmvcosta0/luanmvcosta0/output/github-contribution-grid-snake.svg)
 
 <br><br>
 
