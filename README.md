@@ -22,14 +22,7 @@ Olá, me chamo Luan!
 <br>
 
 # Minhas Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,nextjs,vite,tailwind,styledcomponents,bun,spring,nodejs,nestjs,express,npm,flask,kafka,prisma,redis,aws,postgres,mysql,git,github,docker,selenium,jest,postman,figma,linux)]((https://github.com/luanmvcosta0))
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" style="vertical-align:middle;" /> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,nextjs,vite,tailwind,styledcomponents,bun,spring,nodejs,nestjs,express,npm,flask,kafka,prisma,redis,aws,postgres,mysql,git,github,docker,selenium,jest,postman,figma,linux)]((https://github.com/luanmvcosta0)) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" style="vertical-align:middle;" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" height="40" style="vertical-align:middle;"/> &nbsp;&nbsp;&nbsp;
   
 ![snake svg](https://github.com/luanmvcosta0/luanmvcosta0/blob/output/github-contribution-grid-snake.svg)
   
