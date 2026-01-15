@@ -16,14 +16,33 @@ Olá, me chamo Luan!
 
 <br>
 
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando o **7º período de Sistemas da Informação**.
-- 💼 Atualmente trabalhando no **[ISI-TICS](https://github.com/isi-tics/)**.
-- 🚀 Experiência no desenvolvimento de aplicações escaláveis utilizando **NestJS** e **React**, contribuindo para projetos **SaaS de nível nacional**.
-- 👨‍💻 **1 ano de experiência** como Desenvolvedor **Fullstack**.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando o **7º período de Sistemas da Informação**
+- 💼 Atualmente trabalhando no **[ISI-TICS](https://github.com/isi-tics/)**
+- 🚀 Experiência no desenvolvimento de aplicações escaláveis utilizando **NestJS** e **React**, atuando em projetos **SaaS de nível nacional**
+- 👨‍💻 **1 ano de experiência** como Desenvolvedor **Fullstack**
 
 <br>
 
 <img align="center" height="08em" width="1111" src="https://i.imgur.com/waxVImv.png"/>
+
+<br><br>
+
+<!-- 📊 GitHub Stats -->
+<div align="center">
+  <a href="https://github.com/luanmvcosta0">
+    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api?username=luanmvcosta0&show_icons=true&theme=cobalt&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=luanmvcosta0&layout=compact&theme=cobalt&cache_seconds=1800"/>
+  </a>
+</div>
+
+<br><br>
+
+<!-- 🐍 Snake -->
+<div align="center">
+
+![snake svg](https://raw.githubusercontent.com/luanmvcosta0/luanmvcosta0/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <br><br>
 
@@ -36,24 +55,6 @@ Olá, me chamo Luan!
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,html,css,react,nextjs,vite,tailwind,styledcomponents,bun,spring,nodejs,nestjs,express,npm,flask,kafka,prisma,redis,aws,postgres,mysql,git,github,docker,selenium,jest,postman,figma,linux)](https://github.com/luanmvcosta0)
 
 </div>
-
-<br>
-
-<div align="center">
-
-
-</div>
-
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/luanmvcosta0">
-    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api?username=luanmvcosta0&show_icons=true&theme=cobalt&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=luanmvcosta0&layout=compact&theme=cobalt&cache_seconds=1800"/>
-  </a>
-</div>
-
-![snake svg](https://raw.githubusercontent.com/luanmvcosta0/luanmvcosta0/output/github-contribution-grid-snake.svg)
 
 <br><br>
 
