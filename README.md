@@ -10,8 +10,6 @@ Olá, me chamo Luan!
 
 </div>
 
-<br>
-
 <img align="center" height="08em" width="1111" src="https://i.imgur.com/waxVImv.png"/>
 
 <br>
@@ -25,26 +23,11 @@ Olá, me chamo Luan!
 
 <img align="center" height="08em" width="1111" src="https://i.imgur.com/waxVImv.png"/>
 
-<br><br>
+<br>
 
-<!-- 📊 GitHub Stats -->
-<div align="center">
-  <a href="https://github.com/luanmvcosta0">
-    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api?username=luanmvcosta0&show_icons=true&theme=cobalt&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=luanmvcosta0&layout=compact&theme=cobalt&cache_seconds=1800"/>
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,html,css,react,nextjs,vite,tailwind,styledcomponents,bun,spring,nodejs,nestjs,express,npm,flask,kafka,prisma,redis,aws,postgres,mysql,git,github,docker,selenium,jest,postman,figma,linux)](https://github.com/luanmvcosta0)
 
-<br><br>
-
-<!-- 🐍 Snake -->
-<div align="center">
-
-![snake svg](https://raw.githubusercontent.com/luanmvcosta0/luanmvcosta0/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<br><br>
+<br>
 
 <h1 align="center">Minhas Habilidades</h1>
 
@@ -52,11 +35,24 @@ Olá, me chamo Luan!
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,html,css,react,nextjs,vite,tailwind,styledcomponents,bun,spring,nodejs,nestjs,express,npm,flask,kafka,prisma,redis,aws,postgres,mysql,git,github,docker,selenium,jest,postman,figma,linux)](https://github.com/luanmvcosta0)
+<div align="center">
+  <a href="https://github.com/luanmvcosta0">
+    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api?username=luanmvcosta0&show_icons=true&theme=cobalt&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=luanmvcosta0&layout=compact&theme=cobalt&cache_seconds=1800"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+
+![snake svg](https://raw.githubusercontent.com/luanmvcosta0/luanmvcosta0/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<br><br>
+</div>
+
+<br>
 
 ## 📫 Contato
 
