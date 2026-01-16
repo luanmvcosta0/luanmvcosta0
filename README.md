@@ -27,7 +27,7 @@ Olá, me chamo Luan!
 
 <h1 align="center">Minhas Habilidades</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,html,css,react,nextjs,vite,tailwind,styledcomponents,bun,spring,nodejs,nestjs,express,npm,flask,kafka,prisma,redis,aws,postgres,mysql,git,github,docker,selenium,jest,postman,figma,linux)](https://github.com/luanmvcosta0)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,html,css,react,nextjs,vite,tailwind,styledcomponents,bun,spring,nodejs,nestjs,express,npm,flask,kafka,prisma,redis,aws,postgres,mysql,git,github,docker,selenium,jest,postman,figma,linux&theme=light)](https://github.com/luanmvcosta0)
 
 <br>
 
