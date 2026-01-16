@@ -58,8 +58,11 @@ Fico à disposição para trocar ideias sobre tecnologia, projetos, oportunidade
 Você pode me encontrar por aqui:
 
 💼 LinkedIn: linkedin.com/in/luan-costa
+
 📧 E-mail: costa.devv@gmail.com
+
 📱 WhatsApp: (81) 99830-7047
+
 📷 Instagram: @costa.dev_
 
 Sinta-se à vontade para entrar em contato 🙂
