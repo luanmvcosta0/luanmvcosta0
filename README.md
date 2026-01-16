@@ -1,4 +1,4 @@
-Olá, me chamo Luan!
+👋 Olá, me chamo Luan!
 =========================================================================================================================================
 
 <div align="center">
@@ -52,12 +52,17 @@ Olá, me chamo Luan!
 
 <br>
 
-## 📫 Contato
+📫 Vamos conversar?
 
-📱 **WhatsApp:** 81 99830-7047  
-📧 **E-mail:** luanmvcosta@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/luan-costa](https://www.linkedin.com/in/luan-costa-877010235/)  
-📷 **Instagram:** [instagram.com/costa.dev_](https://www.instagram.com/costa.dev_/)
+Fico à disposição para trocar ideias sobre tecnologia, projetos, oportunidades ou qualquer assunto relacionado a desenvolvimento 👋
+Você pode me encontrar por aqui:
+
+💼 LinkedIn: linkedin.com/in/luan-costa
+📧 E-mail: costa.devv@gmail.com
+📱 WhatsApp: (81) 99830-7047
+📷 Instagram: @costa.dev_
+
+Sinta-se à vontade para entrar em contato 🙂
 
 <br><br>
 
