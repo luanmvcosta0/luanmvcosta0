@@ -12,8 +12,6 @@
 
 ---
 
-<br>
-
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando o **7º período de Sistemas da Informação**
 - 💼 Atualmente trabalhando no **[ISI-TICS](https://github.com/isi-tics/)**
 - 🚀 Experiência no desenvolvimento de aplicações escaláveis utilizando **NestJS** e **React**, atuando em projetos **SaaS de nível nacional**
@@ -51,8 +49,6 @@
 </div>
 
 <br>
-
-📫 Vamos conversar?
 
 Fico à disposição para trocar ideias sobre tecnologia, projetos, oportunidades ou qualquer assunto relacionado a desenvolvimento 👋
 Você pode me encontrar por aqui:
