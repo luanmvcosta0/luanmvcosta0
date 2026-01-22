@@ -19,7 +19,6 @@
 
 <br>
 ---
-<br>
 
 <h1 align="center">Minhas Habilidades</h1>
 
