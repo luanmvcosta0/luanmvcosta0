@@ -10,7 +10,7 @@
 
 </div>
 
-<img align="center" height="08em" width="1111" src="https://i.imgur.com/waxVImv.png"/>
+---
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-<img align="center" height="08em" width="1111" src="https://i.imgur.com/waxVImv.png"/>
+---
 
 <br>
 
