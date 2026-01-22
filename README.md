@@ -59,6 +59,6 @@ Você pode me encontrar por aqui:
 
 Sinta-se à vontade para entrar em contato 🙂
 
-<br><br>
+<br>
 
-<img align="center" height="08em" width="1111" src="https://i.imgur.com/waxVImv.png"/>
+---
