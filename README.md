@@ -18,7 +18,6 @@
 - 👨‍💻 **1 ano de experiência** como Desenvolvedor **Fullstack**
 
 <br>
----
 
 <h1 align="center">Minhas Habilidades</h1>
 
