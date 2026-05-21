@@ -15,7 +15,7 @@
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando o **7º período de Sistemas da Informação**
 - 💼 Atualmente trabalhando no **[ISI-TICS](https://github.com/isi-tics/)**
 - 🚀 Experiência no desenvolvimento de aplicações escaláveis utilizando **NestJS** e **React**, atuando em projetos **SaaS de nível nacional**
-- 👨‍💻 **1 ano de experiência** como Desenvolvedor **Fullstack**
+- 👨‍💻 **1.5 anos de experiência** como Desenvolvedor **Fullstack**
 
 <br>
 
