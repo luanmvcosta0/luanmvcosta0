@@ -49,7 +49,7 @@
 Fico à disposição para trocar ideias sobre tecnologia, projetos, oportunidades ou qualquer assunto relacionado a desenvolvimento 👋
 Você pode me encontrar por aqui:
 
-💼 LinkedIn: linkedin.com/in/luan-costa
+💼 LinkedIn: [linkedin.com/in/luan-costa](https://www.linkedin.com/in/luan-costa-/)
 
 📧 E-mail: costa.devv@gmail.com
 
