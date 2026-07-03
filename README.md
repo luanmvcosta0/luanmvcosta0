@@ -21,7 +21,7 @@
 
 <h1 align="center">Minhas Habilidades</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,nodejs,nestjs,express,spring,fastapi,html,css,tailwind,react,nextjs,vite,styledcomponents,npm,bun,maven,kafka,prisma,redis,aws,postgres,mysql,git,github,docker,selenium,jest,postman,md,figma,linux,vscode,idea,notion&theme=light)](https://github.com/luanmvcosta0)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,nodejs,nestjs,express,spring,fastapi,html,css,tailwind,react,nextjs,vite,styledcomponents,npm,bun,maven,kafka,prisma,redis,aws,postgres,mysql,git,github,githubactions,docker,selenium,jest,postman,md,figma,linux,vscode,idea,notion&theme=light)](https://github.com/luanmvcosta0)
 
 <br>
 
