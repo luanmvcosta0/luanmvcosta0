@@ -13,9 +13,9 @@
 ---
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando o **8º período de Sistemas da Informação**
-- 💼 Atualmente trabalhando no **[ISI-TICS](https://github.com/isi-tics/)**
+- 💼 Atualmente trabalhando na **[Engeman](https://www.linkedin.com/company/engeman/posts/?feedView=all)**
 - 🚀 Experiência no desenvolvimento de aplicações escaláveis utilizando **Java**, **Spring Boot**, **NestJS** e **React**, atuando em projetos **SaaS de nível nacional**
-- 👨‍💻 **1.5 anos de experiência** como Desenvolvedor **Fullstack**
+- 👨‍💻 **2 anos de experiência** como Desenvolvedor **Fullstack**
 
 <br>
 
