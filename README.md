@@ -12,18 +12,16 @@
 
 ---
 
-
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando o **8º período de Sistemas da Informação**
 - 💼 Atualmente trabalhando na **[Engeman](https://www.linkedin.com/company/engeman/posts/?feedView=all)** (atividade de dev por lá em [@luanmvcosta-engeman](https://github.com/luanmvcosta-engeman), com [registro de atividades](https://github.com/luanmvcosta0/activity-log))
 - 🚀 Experiência no desenvolvimento de aplicações escaláveis utilizando **Java**, **Spring Boot**, **NestJS** e **React**, atuando em projetos **SaaS de nível nacional**
-- 👨‍💻 **2 anos de experiência** como Desenvolvedor **Fullstack**
-
+- 👨‍💻 **+2 anos de experiência** como Desenvolvedor **Fullstack**
 
 <br>
 
 <h1 align="center">Minhas Habilidades</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,nodejs,nestjs,express,spring,fastapi,html,css,tailwind,react,redux,vite,styledcomponents,npm,bun,maven,kafka,prisma,redis,aws,postgres,mysql,git,github,githubactions,docker,selenium,jest,vitest,postman,md,figma,linux,ubuntu,vscode,idea,notion&theme=light)](https://github.com/luanmvcosta0)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,nodejs,nestjs,express,spring,fastapi,html,css,tailwind,react,redux,vite,materialui,styledcomponents,npm,bun,maven,kafka,prisma,redis,aws,postgres,mysql,mongodb,git,github,githubactions,azure,docker,selenium,jest,vitest,postman,md,figma,linux,ubuntu,vscode,idea,notion&theme=light)](https://github.com/luanmvcosta0)
 
 <br>
 
