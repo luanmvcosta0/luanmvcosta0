@@ -25,7 +25,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 <div align="center">
   <a href="https://github.com/luanmvcosta0">
@@ -36,7 +36,7 @@
 
 <br>
 
-<div align="center">
+<div align="center"> -->
 
 ![snake svg](https://raw.githubusercontent.com/luanmvcosta0/luanmvcosta0/output/github-contribution-grid-snake.svg)
 
