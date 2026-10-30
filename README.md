@@ -14,7 +14,7 @@
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando o **8º período de Sistemas da Informação**
 - 💼 Atualmente trabalhando na **[Engeman](https://www.linkedin.com/company/engeman/posts/?feedView=all)** (atividade de dev por lá em [@luanmvcosta-engeman](https://github.com/luanmvcosta-engeman), com [registro de atividades](https://github.com/luanmvcosta0/activity-log))
-- 🌐 Mantenho a **[ProBuled](https://github.com/probuled)**, minha iniciativa pessoal onde desenvolvo projetos profissionais e open source 👉 [probuled.com.br](probuled.com.br)
+- 🌐 Mantenho a **[ProBuled](https://github.com/probuled)**, minha iniciativa pessoal onde desenvolvo projetos profissionais e open source 👉 [probuled.com.br](https://probuled.com.br/)
 - 🚀 Experiência no desenvolvimento de aplicações escaláveis utilizando **Java**, **Spring Boot**, **NestJS** e **React**, atuando em projetos **SaaS de nível nacional**
 - 👨‍💻 **+2 anos de experiência** como Desenvolvedor **Fullstack**
 
